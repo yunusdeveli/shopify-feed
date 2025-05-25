@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
+<rss version="2.0">
+  <channel>
+    <title>My Product Feed</title>
+    <link>https://yunusdeveli.github.io/shopify-feed</link>
+    <description>Shopify XML product feed</description>
+
     <item>
       <sku>1001</sku>
       <title>Test T-Shirt</title>
@@ -7,6 +12,7 @@
       <price>199.90</price>
       <quantity>20</quantity>
     </item>
+
     <item>
       <sku>1002</sku>
       <title>Test Hoodie</title>
@@ -14,4 +20,5 @@
       <price>349.90</price>
       <quantity>15</quantity>
     </item>
-</root>
+  </channel>
+</rss>
