@@ -6,7 +6,7 @@
     <description>Kısa kollu, pamuklu test tişörtü.</description>
     <price>199.90</price>
     <quantity>20</quantity>
-    <image_link>https://dummyimage.com/600x400/000/fff&text=Test+T-Shirt</image_link>
+    <image_link>https://dummyimage.com/600x400/000/fff&amp;text=Test+T-Shirt</image_link>
   </product>
   <product>
     <sku>1002</sku>
@@ -14,6 +14,6 @@
     <description>Kapüşonlu test sweatshirt.</description>
     <price>349.90</price>
     <quantity>15</quantity>
-    <image_link>https://dummyimage.com/600x400/000/fff&text=Test+Hoodie</image_link>
+    <image_link>https://dummyimage.com/600x400/000/fff&amp;text=Test+Hoodie</image_link>
   </product>
 </products>
