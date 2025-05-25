@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>Product Feed</title>
-    <link>https://shopify-feed-nine.vercel.app</link>
-    <description>Feed for Shopify stock sync</description>
-
-    <item>
-      <sku>1001</sku>
-      <title>Test T-Shirt</title>
-      <description>Kısa kollu, pamuklu test tişörtü.</description>
-      <price>199.90</price>
-      <quantity>20</quantity>
-    </item>
-    <item>
-      <sku>1002</sku>
-      <title>Test Hoodie</title>
-      <description>Kapüşonlu test sweatshirt.</description>
-      <price>349.90</price>
-      <quantity>15</quantity>
-    </item>
-  </channel>
-</rss>
+<products>
+  <product>
+    <id>1001</id>
+    <title>Test T-Shirt</title>
+    <description>Kısa kollu, pamuklu test tişörtü.</description>
+    <price>199.90</price>
+    <stock>20</stock>
+    <image>https://dummyimage.com/600x400/000/fff&text=Test+T-Shirt</image>
+  </product>
+  <product>
+    <id>1002</id>
+    <title>Test Hoodie</title>
+    <description>Kapüşonlu test sweatshirt.</description>
+    <price>349.90</price>
+    <stock>15</stock>
+    <image>https://dummyimage.com/600x400/000/fff&text=Test+Hoodie</image>
+  </product>
+</products>
