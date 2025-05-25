@@ -1,4 +1,5 @@
-<channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
   <item>
     <sku>1001</sku>
     <title>Test T-Shirt</title>
@@ -13,4 +14,4 @@
     <price>349.90</price>
     <quantity>15</quantity>
   </item>
-</channel>
+</products>
