@@ -1,19 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<products>
-  <product>
-    <id>1001</id>
+<channel>
+  <item>
+    <sku>1001</sku>
     <title>Test T-Shirt</title>
     <description>Kısa kollu, pamuklu test tişörtü.</description>
+    <image_link>https://dummyimage.com/600x400/000/fff&text=Test+T-Shirt</image_link>
     <price>199.90</price>
-    <stock>20</stock>
-    <image>https://dummyimage.com/600x400/000/fff&amp;text=Test+T-Shirt</image>
-  </product>
-  <product>
-    <id>1002</id>
+    <quantity>20</quantity>
+    <size></size>
+    <variant></variant>
+    <vendor></vendor>
+    <producttype>Clothes</producttype>
+  </item>
+  <item>
+    <sku>1002</sku>
     <title>Test Hoodie</title>
     <description>Kapüşonlu test sweatshirt.</description>
+    <image_link>https://dummyimage.com/600x400/000/fff&text=Test+Hoodie</image_link>
     <price>349.90</price>
-    <stock>15</stock>
-    <image>https://dummyimage.com/600x400/000/fff&amp;text=Test+Hoodie</image>
-  </product>
-</products>
+    <quantity>15</quantity>
+    <size></size>
+    <variant></variant>
+    <vendor></vendor>
+    <producttype>Clothes</producttype>
+  </item>
+</channel>
